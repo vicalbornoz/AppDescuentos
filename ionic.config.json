@@ -1,0 +1,7 @@
+{
+  "name": "Descuento",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

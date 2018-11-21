@@ -1,0 +1,32 @@
+page-login {
+  .content{
+    background-image: url(../assets/imgs/cafeshop.jpeg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+  }
+  .logo{
+    background-image: url(../assets/imgs/cafelogo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 60%;
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+    animation-name: fadeIn;
+    animation-duration: 10s;
+    margin-top: 10px;
+  }
+  .button {
+    width: 95%;
+    position: fixed;
+    bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #4267b2;
+    font-family: roboto;
+    font-weight: 600;
+    padding: 0px;
+  }
+}
